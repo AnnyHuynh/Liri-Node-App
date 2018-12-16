@@ -1,0 +1,55 @@
+
+/usr/local/bin/node /Users/anny/Desktop/Liri-Node-App/liri.js concert-this Celine Dion 
+Celine Dion Playing at THE COLOSSEUM AT CAESARS PALACE, Las Vegas, United States
+12/15/2018
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+/usr/local/bin/node /Users/anny/Desktop/Liri-Node-App/liri.js spotify-this-song 
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+/usr/local/bin/node /Users/anny/Desktop/Liri-Node-App/liri.js spotify-this-song The Sign ace 
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+/usr/local/bin/node /Users/anny/Desktop/Liri-Node-App/liri.js movie-this 
+title: Mr. Nobody
+Release Year: 2009
+IMDb Rating: 7.9
+Rotten Tomatoes Rating: 67%
+country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+/usr/local/bin/node /Users/anny/Desktop/Liri-Node-App/liri.js movie-this Titanic 
+title: Titanic
+Release Year: 1997
+IMDb Rating: 7.8
+Rotten Tomatoes Rating: 89%
+country: USA
+Language: English, Swedish
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+/usr/local/bin/node /Users/anny/Desktop/Liri-Node-App/liri.js do-what-it-says 
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
